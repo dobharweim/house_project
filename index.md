@@ -377,110 +377,91 @@ Image 80: "Bedroom 5" fireplace.
 
 [![](images/81.jpeg)](images/81.jpeg)
 <Caption>
-Image 81:
+Image 81: Linen press ceiling. Looks like a pipe repair rather than anything serious.
 </Caption>
 
 [![](images/82.jpeg)](images/82.jpeg)
 <Caption>
-Image 82:
-</Caption>
-
-[![](images/83.jpeg)](images/83.jpeg)
-<Caption>
-Image 83:
+Image 82: "Bedroom 6" ceiling
 </Caption>
 
 [![](images/84.jpeg)](images/84.jpeg)
 <Caption>
-Image 84:
+Image 84: "Bedroom 6" window
 </Caption>
 
 [![](images/85.jpeg)](images/85.jpeg)
 <Caption>
-Image 85:
+Image 85: "Bedroom 6" ceiling
 </Caption>
 
-[![](images/86.jpeg)](images/86.jpeg)
-<Caption>
-Image 86:
-</Caption>
 
 [![](images/87.jpeg)](images/87.jpeg)
 <Caption>
-Image 87:
+Image 87: Service stairs to attic.
 </Caption>
 
 [![](images/88.jpeg)](images/88.jpeg)
 <Caption>
-Image 88:
+Image 88: Staining on ceiling in attic.
 </Caption>
 
 [![](images/89.jpeg)](images/89.jpeg)
 <Caption>
-Image 89:
+Image 89: View of brickwork and balcony beyond.
 </Caption>
 
 [![](images/90.jpeg)](images/90.jpeg)
 <Caption>
-Image 90:
+Image 90: View of roof from Balcony.
 </Caption>
 
 [![](images/91.jpeg)](images/91.jpeg)
 <Caption>
-Image 91:
+Image 91: Closeup of roof from Balcony.
 </Caption>
 
 [![](images/92.jpeg)](images/92.jpeg)
 <Caption>
-Image 92:
+Image 92: Closeup of chimney from Balcony.
 </Caption>
 
 [![](images/93.jpeg)](images/93.jpeg)
 <Caption>
-Image 93:
+Image 93: "Outbuiling 2"
 </Caption>
 
 [![](images/94.jpeg)](images/94.jpeg)
 <Caption>
-Image 94:
+Image 94: "Outbuiling 2" chimney.
 </Caption>
 
 [![](images/95.jpeg)](images/95.jpeg)
 <Caption>
-Image 95:
+Image 95: Walled garden wall.
 </Caption>
 
 [![](images/96.jpeg)](images/96.jpeg)
 <Caption>
-Image 96:
+Image 96: View of northern face of house from courtyard.
 </Caption>
 
 [![](images/97.jpeg)](images/97.jpeg)
 <Caption>
-Image 97:
+Image 97: Lovely gate on garden.
 </Caption>
 
 [![](images/98.jpeg)](images/98.jpeg)
 <Caption>
-Image 98:
+Image 98: Stables - of all the outbuildings best roof.
 </Caption>
 
 [![](images/99.jpeg)](images/99.jpeg)
 <Caption>
-Image 99:
-</Caption>
-
-[![](images/100.jpeg)](images/100.jpeg)
-<Caption>
-Image 100:
+Image 99: View of roof from stables - good perspective of the sag in it.
 </Caption>
 
 [![](images/101.jpeg)](images/101.jpeg)
 <Caption>
-Image 101:
-</Caption>
-
-[![](images/102.jpeg)](images/102.jpeg)
-<Caption>
-Image 102:
+Image 101: Another view of same section of the roof.
 </Caption>
