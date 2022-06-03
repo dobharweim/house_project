@@ -2,8 +2,6 @@
 
 **Note** You can click into any of these photos to zoom - or right click and open in a new tab. The photos may take a minute to load the first time you visit. Thanks Frank!
 
-[It's all relative](backup_index.md)
-
 [![](images/1.jpeg)](images/1.jpeg)
 <Caption>
 Image 1: Exterior view of north east (NE) ground floor window.
