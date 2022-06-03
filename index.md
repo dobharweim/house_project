@@ -17,17 +17,17 @@ Image 3: "Outbuilding 1" - Some cobblestone visible but not sure if there is mor
 
 [![](images/4.jpeg)](images/4.jpeg)
 <Caption>
-Image 4: Northern face of the house - yellow insulation foam seeping was "inserted to get rid of wasps nests". Red brick diagonal - repairs?
+Image 4: Northern face of the house - yellow insulation foam seeping was "inserted to get rid of wasps nests".
 </Caption>
 
 [![](images/5.jpeg)](images/5.jpeg)
 <Caption>
-Image 5: Detail of northern face showing foam, red brick, condition of eaves and plasterwork.
+Image 5: Detail of northern face showing foam, red brick, condition of eaves and some plasterwork on western face.
 </Caption>
 
 [![](images/6.jpeg)](images/6.jpeg)
 <Caption>
-Image 6: Courtyard to west of of the building. Showing balcony (can be removed?) and more cobblestone under cement here.
+Image 6: Courtyard to west of of the building. Showing balcony (I would remove) and more cobblestone under cement here.
 </Caption>
 
 [![](images/7.jpeg)](images/7.jpeg)
@@ -47,357 +47,332 @@ Image 9: The other side of the room from image 8.
 
 [![](images/10.jpeg)](images/10.jpeg)
 <Caption>
-Image 10:
+Image 10: Interior view of roof of "Outbuilding 1".
 </Caption>
 
 [![](images/11.jpeg)](images/11.jpeg)
 <Caption>
-Image 11:
+Image 11: Guest lodge - didn't get inside but seems in good nick.
 </Caption>
 
 [![](images/12.jpeg)](images/12.jpeg)
 <Caption>
-Image 12:
+Image 12: "Tower house" eastern face.
 </Caption>
 
 [![](images/13.jpeg)](images/13.jpeg)
 <Caption>
-Image 13:
+Image 13: "Tower house" eastern door detail.
 </Caption>
 
 [![](images/14.jpeg)](images/14.jpeg)
 <Caption>
-Image 14:
+Image 14: Fuse box found in northern section of the house. Get the impression this is the "back" of the house and didn't get the same attention the southern section did.
 </Caption>
 
 [![](images/15.jpeg)](images/15.jpeg)
 <Caption>
-Image 15:
+Image 15: Plaster from ceiling of "Family Room". I actually really like it - so long as it's just due to age!
 </Caption>
 
 [![](images/16.jpeg)](images/16.jpeg)
 <Caption>
-Image 16:
+Image 16: Fireplace in "Family Room". Original fireplaces are sadly all gone I think.
 </Caption>
 
 [![](images/17.jpeg)](images/17.jpeg)
 <Caption>
-Image 17:
-</Caption>
-
-[![](images/18.jpeg)](images/18.jpeg)
-<Caption>
-Image 18:
+Image 17: Detail of ceiling in "Family Room".
 </Caption>
 
 [![](images/19.jpeg)](images/19.jpeg)
 <Caption>
-Image 19:
+Image 19: Detail of wiring in "Family Room".
 </Caption>
 
 [![](images/20.jpeg)](images/20.jpeg)
 <Caption>
-Image 20:
+Image 20: Additional detail of wiring in "Family Room".
 </Caption>
 
 [![](images/21.jpeg)](images/21.jpeg)
 <Caption>
-Image 21:
+Image 21: Interior view of windows in "Family Room" - room has a remarkable feel, hard to photograph.
 </Caption>
 
 [![](images/22.jpeg)](images/22.jpeg)
 <Caption>
-Image 22:
+Image 22: View of kitchen.
 </Caption>
 
 [![](images/23.jpeg)](images/23.jpeg)
 <Caption>
-Image 23:
+Image 23: Service stairs.
 </Caption>
 
 [![](images/24.jpeg)](images/24.jpeg)
 <Caption>
-Image 24:
+Image 24: Window on service stairs. Good nick but draughty - checked for damp under that pillow but dry both days.
 </Caption>
 
 [![](images/25.jpeg)](images/25.jpeg)
 <Caption>
-Image 25:
+Image 25: Wall of service stairs - plaster a little splotchy but don't think it's water.
 </Caption>
 
 [![](images/26.jpeg)](images/26.jpeg)
 <Caption>
-Image 26:
+Image 26: Full view of window from image 24.
 </Caption>
 
 [![](images/27.jpeg)](images/27.jpeg)
 <Caption>
-Image 27:
+Image 27: Fuse box in southern section of the house.
 </Caption>
 
 [![](images/28.jpeg)](images/28.jpeg)
 <Caption>
-Image 28:
+Image 28: Underside of main stairs.
 </Caption>
 
 [![](images/29.jpeg)](images/29.jpeg)
-<Caption>
-Image 29:
+<Caption> 
+Image 29: Radiators, it does have C/H! It's gas fired and eye-wateringly expensive but it exists.
 </Caption>
 
 [![](images/30.jpeg)](images/30.jpeg)
 <Caption>
-Image 30:
+Image 30: Reception room. Moulding is in really good state in this side of the house. My only fear is that the floors over the dining room are sagging when you walk around up there. Sagging to the middle - may be joists reaching end of life. Hopefully if it is, it's possible to replace these without damaging any original plasterwork.
 </Caption>
 
 [![](images/31.jpeg)](images/31.jpeg)
 <Caption>
-Image 31:
+Image 31: Fireplace in reception.
 </Caption>
 
 [![](images/32.jpeg)](images/32.jpeg)
 <Caption>
-Image 32:
+Image 32: Interior view of drawing room window.
 </Caption>
 
 [![](images/33.jpeg)](images/33.jpeg)
 <Caption>
-Image 33:
+Image 33: Detail interior view of drawing room window.
 </Caption>
 
 [![](images/34.jpeg)](images/34.jpeg)
 <Caption>
-Image 34:
+Image 34: Drawing room.
 </Caption>
 
 [![](images/35.jpeg)](images/35.jpeg)
 <Caption>
-Image 35:
+Image 35: Another view of drawing room.
 </Caption>
 
 [![](images/36.jpeg)](images/36.jpeg)
 <Caption>
-Image 36:
+Image 36: Reception.
 </Caption>
 
 [![](images/37.jpeg)](images/37.jpeg)
 <Caption>
-Image 37:
+Image 37: Dining room.
 </Caption>
 
 [![](images/38.jpeg)](images/38.jpeg)
 <Caption>
-Image 38:
+Image 38: Plaster cracks in dining room.
 </Caption>
 
 [![](images/39.jpeg)](images/39.jpeg)
 <Caption>
-Image 39:
+Image 39: Same image as 38 wider perspective.
 </Caption>
 
 [![](images/40.jpeg)](images/40.jpeg)
 <Caption>
-Image 40:
+Image 40: Some form of bulging over fireplace - or could be a plate? Image 41 is the same on the other side.
 </Caption>
 
 [![](images/41.jpeg)](images/41.jpeg)
 <Caption>
-Image 41:
+Image 41: Other side of fireplace.
 </Caption>
 
 [![](images/42.jpeg)](images/42.jpeg)
 <Caption>
-Image 42:
+Image 42: Fireplace wide view.
 </Caption>
 
 [![](images/43.jpeg)](images/43.jpeg)
 <Caption>
-Image 43:
+Image 43: Main staircase.
 </Caption>
 
 [![](images/44.jpeg)](images/44.jpeg)
 <Caption>
-Image 44:
+Image 44: Wall on main staircase, pockmarked.
 </Caption>
 
 [![](images/45.jpeg)](images/45.jpeg)
 <Caption>
-Image 45:
+Image 45: Detail view of wall on main staircase.
 </Caption>
 
 [![](images/46.jpeg)](images/46.jpeg)
 <Caption>
-Image 46:
+Image 46: Ceiling over pockmarked wall on main staircase.
 </Caption>
 
 [![](images/47.jpeg)](images/47.jpeg)
 <Caption>
-Image 47:
+Image 47: More bulging plaster.
 </Caption>
 
 [![](images/48.jpeg)](images/48.jpeg)
 <Caption>
-Image 48:
+Image 48: "Bedroom 2" wide view. Floor felt perfect.
 </Caption>
 
 [![](images/49.jpeg)](images/49.jpeg)
 <Caption>
-Image 49:
+Image 49: "Bedroom 2" en suite.
 </Caption>
 
 [![](images/50.jpeg)](images/50.jpeg)
 <Caption>
-Image 50:
-</Caption>
-
-[![](images/51.jpeg)](images/51.jpeg)
-<Caption>
-Image 51:
+Image 50: "Bedroom 2" ceiling slight discolouration/cracking.
 </Caption>
 
 [![](images/52.jpeg)](images/52.jpeg)
 <Caption>
-Image 52:
+Image 52: "Bedroom 1" ceiling.
 </Caption>
 
 [![](images/53.jpeg)](images/53.jpeg)
 <Caption>
-Image 53:
+Image 53: "Bedroom 1" ceiling additional perspective.
 </Caption>
 
 [![](images/54.jpeg)](images/54.jpeg)
 <Caption>
-Image 54:
+Image 54:  "Bedroom 1" windows - modern?
 </Caption>
 
 [![](images/55.jpeg)](images/55.jpeg)
-<Caption>
-Image 55:
+<Caption> 
+Image 55: Closer view of "Bedroom 1" windows.
 </Caption>
 
 [![](images/56.jpeg)](images/56.jpeg)
 <Caption>
-Image 56:
-</Caption>
-
-[![](images/57.jpeg)](images/57.jpeg)
-<Caption>
-Image 57:
-</Caption>
-
-[![](images/58.jpeg)](images/58.jpeg)
-<Caption>
-Image 58:
+Image 56: Strange strut running across ceiling but no signs of water/damp.
 </Caption>
 
 [![](images/59.jpeg)](images/59.jpeg)
 <Caption>
-Image 59:
+Image 59: "Bedroom 1" en suite.
 </Caption>
 
 [![](images/60.jpeg)](images/60.jpeg)
 <Caption>
-Image 60:
-</Caption>
-
-[![](images/61.jpeg)](images/61.jpeg)
-<Caption>
-Image 61:
+Image 60: Close up of underside of eaves.
 </Caption>
 
 [![](images/62.jpeg)](images/62.jpeg)
 <Caption>
-Image 62:
+Image 62: Slight pockmarks on plaster.
 </Caption>
 
 [![](images/63.jpeg)](images/63.jpeg)
 <Caption>
-Image 63:
+Image 63: Slight discoloration to ceiling "Bedroom 3".
 </Caption>
 
 [![](images/64.jpeg)](images/64.jpeg)
 <Caption>
-Image 64:
+Image 64: "Bedroom 3"
 </Caption>
 
 [![](images/65.jpeg)](images/65.jpeg)
 <Caption>
-Image 65:
+Image 65: "Bedroom 3" windows - under the window seems repaired.
 </Caption>
 
 [![](images/66.jpeg)](images/66.jpeg)
 <Caption>
-Image 66:
+Image 66: "Bedroom 3" windows - every window in this room is slightly different.
 </Caption>
 
 [![](images/67.jpeg)](images/67.jpeg)
 <Caption>
-Image 67:
+Image 67: "Bedroom 3" floor (slightly) noticeably bowed when walking across.
 </Caption>
 
 [![](images/68.jpeg)](images/68.jpeg)
 <Caption>
-Image 68:
+Image 68: Stairs from landing to "tower house" and service stairs.
 </Caption>
 
 [![](images/69.jpeg)](images/69.jpeg)
 <Caption>
-Image 69:
+Image 69: Corridor on 1st floor of "tower house" - obviously we will know more following a survey of the building - but it would be nice to brighten or widen this corridor somehow if possible.
 </Caption>
 
 [![](images/70.jpeg)](images/70.jpeg)
 <Caption>
-Image 70:
+Image 70: "Bedroom 4" - these rooms noticeably older.
 </Caption>
 
 [![](images/71.jpeg)](images/71.jpeg)
 <Caption>
-Image 71:
+Image 71: "Bedroom 4" ceiling.
 </Caption>
 
 [![](images/72.jpeg)](images/72.jpeg)
 <Caption>
-Image 72:
+Image 72: "Bedroom 4" ensuite ceiling.
 </Caption>
 
 [![](images/73.jpeg)](images/73.jpeg)
 <Caption>
-Image 73:
+Image 73: "Bedroom 4" wall stained - not sure if water.
 </Caption>
 
 [![](images/74.jpeg)](images/74.jpeg)
 <Caption>
-Image 74:
+Image 74: Laundry on first floor of "tower house".
 </Caption>
 
 [![](images/75.jpeg)](images/75.jpeg)
 <Caption>
-Image 75:
+Image 75: Ceiling of laundry.
 </Caption>
 
 [![](images/76.jpeg)](images/76.jpeg)
 <Caption>
-Image 76:
+Image 76: Stairs leading from "tower house" to northern end of the house. Slanting to left.
 </Caption>
 
 [![](images/77.jpeg)](images/77.jpeg)
 <Caption>
-Image 77:
+Image 77: Ceiling in northern section.
 </Caption>
 
 [![](images/78.jpeg)](images/78.jpeg)
 <Caption>
-Image 78:
+Image 78: "Bedroom 5" in northern section. Panelled ceiling, ensuite, fireplace (not a fireplace itself but style) all of concern.
 </Caption>
 
 [![](images/79.jpeg)](images/79.jpeg)
 <Caption>
-Image 79:
+Image 79: "Bedroom 5" ensuite ceiling.
 </Caption>
 
 [![](images/80.jpeg)](images/80.jpeg)
 <Caption>
-Image 80:
+Image 80: "Bedroom 5" fireplace.
 </Caption>
 
 [![](images/81.jpeg)](images/81.jpeg)
